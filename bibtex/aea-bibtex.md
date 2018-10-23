@@ -1,5 +1,4 @@
 # AEA-Style References with BibTeX and Zotero
-## Background
 This guide is designed for Zotero users who would like to use the official [AEA BibTeX style](https://www.aeaweb.org/journals/policies/templates) to automatically export properly formatted online references. **Feedback welcome!**
 
 In particular, this approach should ensure the correct formatting for the following:
