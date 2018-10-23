@@ -31,7 +31,7 @@ if (Translator.BetterBibTeX && item.itemType === 'journalArticle') {
 Install `aea.bst` (available [here](https://www.aeaweb.org/journals/policies/templates)) in your local BibTeX style folder.
 
 ## Adding Online References to Zotero
-When you add an online reference, make sure the Zotero item type is “Journal Article,” not “Web Page.” Enter the title for the specific web page as “Title” (e.g., “State Inpatient Databases”) and the overall website title — if there is a separate one — as “Publication” (e.g., “Healthcare Cost and Utilization Project”). Human author names should be specified as they would normally in the “Author” field.  If the website’s author is an organization, enter that name as the “Short Title.” Enter the year the website was last updated in “Date,” the URL in “URL,” and the date you last accessed the website in the note field with proper formatting (e.g., “October 11, 2018”).
+When you add an online reference, make sure the Zotero item type is “Journal Article,” not “Web Page.” Enter the title for the specific web page as “Title” (e.g., “State Inpatient Databases”) and the overall website title — if there is a separate one — as “Publication” (e.g., “Healthcare Cost and Utilization Project”). Human author names should be specified as they would normally in the “Author” field.  If the website’s author is an organization, enter that name as the “Short Title.” Enter the year the website was last updated in “Date,” the URL in “URL,” and the date you last accessed the website in the "Extra" field with proper formatting (e.g., “October 11, 2018”).
 
 ## Setting Up LaTeX
 Be sure you have enabled the `hyperref` and `natbib` packages in your preamble. Specify `aea` as the bibliography style.
