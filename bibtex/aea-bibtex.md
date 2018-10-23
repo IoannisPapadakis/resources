@@ -9,7 +9,7 @@ In particular, this approach should ensure the correct formatting for the follow
 * URLs and access dates.
 
 ## Install the Better BibTeX Zotero Plug-In
-Assuming you have already installed [Zotero](https://www.zotero.org), go ahead and also install the [Better BibTeX](https://github.com/retorquere/zotero-better-bibtex) plug-in. The principal benefit of this plug-in is that it allows any change in Zotero (i.e., the addition of a new reference) to be mirrored instantaneously in a linked .bib file. For our purposes here, the plug-in also provides granular control over the format of exported .bib files, including citation keys and item fields.
+Assuming you have already installed [Zotero](https://www.zotero.org), go ahead and also install the [Better BibTeX](https://github.com/retorquere/zotero-better-bibtex) plug-in. The principal benefit of this plug-in is that it allows any change in Zotero (i.e., the addition of a new reference) to be mirrored instantaneously in a linked `.bib` file. For our purposes here, the plug-in also provides granular control over the format of exported `.bib` files, including citation keys and item fields.
 
 ## Customize Better BibTeX
 The Better BibTeX translator needs to be customized to ensure that data fields for online references are exported appropriately. Navigate to the Better BibTeX advanced preferences pane (Zotero -> Preferences -> Better BibTeX -> Advanced) and paste in the code below as “postscript”:
